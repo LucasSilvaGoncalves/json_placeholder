@@ -1,0 +1,39 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "name": "Madza RX-7",
+      "year": 2001,
+      "color": "red",
+      "Gear": "AM"
+    },
+    {
+      "id": 2,
+      "name": "Madza RX-8",
+      "year": 2005,
+      "color": "red",
+      "Gear": "AT"
+    },
+    {
+      "id": 3,
+      "name": "Madza Miata",
+      "year": 2000,
+      "color": "red",
+      "Gear": "AT"
+    },
+    {
+      "id": 4,
+      "name": "Madza MX-3",
+      "year": 2001,
+      "color": "blue",
+      "Gear": "AM"
+    },
+    {
+      "id": 5,
+      "name": "Madza 626",
+      "year": 1994,
+      "color": "black",
+      "Gear": "AM"
+    }
+  ]
+}
